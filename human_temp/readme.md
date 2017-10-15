@@ -1,0 +1,1 @@
+This project dives into a sample data set which contains human temperature data with the goal of exploring insights on if the 98.6 F temperature is actually meaningful by performing EDA and inferential statistics.
